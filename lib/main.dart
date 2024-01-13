@@ -187,7 +187,7 @@ List lives= [
       ["2.11 幕張メッセ"],
       List.filled(1, false),
       [//sepecial live 20
-        ["天体観測","R.I.P.","バトルクライ","ランプ","車輪の唄","ひとりごと","ナイフ","Butterfly","ロストマン","ベル","66号線","K","ダイヤモンド","ray","ガラスのブルース","Hello, world!""BUMP OF CHICKENのテーマ","DANNY"],
+        ["天体観測","R.I.P.","バトルクライ","ランプ","車輪の唄","ひとりごと","ナイフ","Butterfly","ロストマン","ベル","66号線","K","ダイヤモンド","ray","ガラスのブルース","Hello, world!","BUMP OF CHICKENのテーマ","DANNY"],
       ]
   ),
   Live("Cound Down Japan 15/16",

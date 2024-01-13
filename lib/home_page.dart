@@ -68,7 +68,7 @@ class HomePage extends StatelessWidget {
                 ),
               ),
             ),
-            Text("version 1.0  Created by Aoi",style: TextStyle(fontSize: 10),),
+            Text("version 1.0.1  Created by Aoi",style: TextStyle(fontSize: 10),),
             Spacer(),
           ],
         ),
