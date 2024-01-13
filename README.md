@@ -45,5 +45,8 @@ BUMP工学部が活発になることを期待しています．
 ## version 履歴
 ### version 1.0.0
 最初の状態
-### vesion 1.0.1
+### version 1.0.1
 Special Live 「20」において，Hello, world! とBUMP OF CHICKENのテーマが繋がっている不具合を修正
+### version 1.0.2
+be thereにおいてポートメッセ名古屋の日付の誤りを修正
+WILLPOLIS 2014 においてfireflyとSmileの誤字を修正
