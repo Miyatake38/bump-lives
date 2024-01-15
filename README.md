@@ -43,10 +43,12 @@ web版は次のリンクからアクセスできる．→ [BUMP Live 解析く�
 BUMP工学部が活発になることを期待しています．
 
 ## version 履歴
-### version 1.0.0
+### version 1.0.0 2024/01/13
 最初の状態
-### version 1.0.1
+### version 1.0.1 2024/01/13
 Special Live 「20」において，Hello, world! とBUMP OF CHICKENのテーマが繋がっている不具合を修正
-### version 1.0.2
+### version 1.0.2 2024/01/13
 be thereにおいてポートメッセ名古屋の日付の誤りを修正  
 WILLPOLIS 2014 においてfireflyとSmileの誤字を修正
+### version 1.0.2 2024/01/15
+PATHFINDERにおいて才悩人応援歌の誤字を修正  
