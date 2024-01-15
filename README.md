@@ -40,7 +40,6 @@ leading:Image.asset('assets/'+lives[i].image),
 ## 終わりに
 web版は次のリンクからアクセスできる．→ [BUMP Live 解析くん](https://bump-lives.firebaseapp.com/)  
 ソースコード等は自由に改変していただいて結構です．データベース取りも結構です．（正しさの保証はありませんが．）何かしらの成果物を作成された際には，ご一報頂けますと大変嬉しく思います．  
-BUMP工学部が活発になることを期待しています．
 
 ## version 履歴
 ### version 1.0.0 2024/01/13
@@ -50,5 +49,5 @@ Special Live 「20」において，Hello, world! とBUMP OF CHICKENのテーマ
 ### version 1.0.2 2024/01/13
 be thereにおいてポートメッセ名古屋の日付の誤りを修正  
 WILLPOLIS 2014 においてfireflyとSmileの誤字を修正
-### version 1.0.2 2024/01/15
+### version 1.0.3 2024/01/15
 PATHFINDERにおいて才悩人応援歌の誤字を修正  
